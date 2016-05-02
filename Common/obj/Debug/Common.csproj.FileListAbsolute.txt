@@ -1,0 +1,5 @@
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\Common\bin\Debug\Common.dll
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\Common\bin\Debug\Common.pdb
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\Common\obj\Debug\Common.dll
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\Common\obj\Debug\Common.pdb
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\Common\bin\Debug\appSettings.config

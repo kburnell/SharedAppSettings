@@ -1,0 +1,9 @@
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\appSettings.config
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\Common.dll
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\bin\Debug\Common.pdb
+E:\Dev\Falafel\Internal\BlogPosts\SharedAppSettings\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
